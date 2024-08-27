@@ -14,5 +14,5 @@ Example: `go run main.go example.com`
 ## Installation
 
 ```bash
-go install -v github.com/Abhinandan-Khurana/go_virustotal@latest
+go install -v github.com/abhinandan-khurana/go_virustotal@latest
 ```
