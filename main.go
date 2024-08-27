@@ -14,7 +14,7 @@ type VirusTotalResponse struct {
 
 func main() {
 	if len(os.Args) != 2 {
-		fmt.Fprintln(os.Stderr, "Usage: go run vt-subdomains.go domain.com")
+		fmt.Fprintln(os.Stderr, "Usage: go_virustotal domain.com")
 		os.Exit(1)
 	}
 
